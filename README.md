@@ -1,2 +1,5 @@
 # py7
-first repo
+
+
+first create in v1.0 
+#nothing special
